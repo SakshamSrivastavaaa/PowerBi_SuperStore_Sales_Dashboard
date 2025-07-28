@@ -1,7 +1,3 @@
-Thanks for uploading your Power BI file `salesforecast.pbix`. Based on the filename, I’ll assume the project is about **Sales Forecasting using Power BI**. Here's a clean and professional **`README.md`** file you can use for GitHub:
-
-
-
 # 📊 Sales Forecasting Dashboard using Power BI
 
 ## 🔍 Overview
